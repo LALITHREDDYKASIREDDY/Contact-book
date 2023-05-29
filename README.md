@@ -1,11 +1,14 @@
 # Contact-book
 Contact Book Project - README
+
 This is a Contact Book project developed using React and Node.js. The purpose of this project is to provide a user-friendly interface to manage contacts, allowing users to add, view, edit, and delete contact information.
 
 Project Structure
+
 The project is divided into two main parts: the frontend and the backend.
 
 Frontend
+
 The frontend of the project is built using React, a popular JavaScript library for building user interfaces. The source code for the frontend is located in the frontend directory.
 
 Inside the frontend directory, you will find the following files and directories:
@@ -23,6 +26,7 @@ index.js: Renders the App component and mounts it to the DOM.
 public: Contains the static assets and the index.html file used as the template for the application.
 
 Backend
+
 The backend of the project is built using Node.js, a JavaScript runtime. It provides a RESTful API to handle contact operations and interacts with a database to store and retrieve contact information. The source code for the backend is located in the backend directory.
 
 Inside the backend directory, you will find the following files and directories:
@@ -43,4 +47,5 @@ index.js: The entry point of the backend application.
 
 
 Contributing
+
 Contributions to the Contact Book project are welcome! If you find any bugs or want to add new features, please submit an issue or a pull request to the repository.
