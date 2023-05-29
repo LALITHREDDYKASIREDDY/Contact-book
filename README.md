@@ -49,3 +49,7 @@ index.js: The entry point of the backend application.
 Contributing
 
 Contributions to the Contact Book project are welcome! If you find any bugs or want to add new features, please submit an issue or a pull request to the repository.
+
+output:
+
+![image](https://github.com/LALITHREDDYKASIREDDY/Contact-book/assets/112109560/801f1dca-21e0-4763-be59-e3ba66f1692d)
