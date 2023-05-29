@@ -28,23 +28,7 @@ routes: Defines the API routes for handling different CRUD operations.
 app.js: Sets up the Express server and middleware.
 config.js: Contains configuration settings, such as the database connection details.
 index.js: The entry point of the backend application.
-Getting Started
-To get started with the Contact Book project, follow these steps:
 
-Clone the repository:
-git clone <repository-url>
-Install the dependencies for the frontend and backend. In separate terminal windows, navigate to the frontend and backend directories and run the following command:
-npm install
-Set up the database. You will need to configure the database connection in the config.js file located in the backend/src directory. Provide the necessary connection details, such as the host, port, database name, username, and password.
-Start the backend server. In the terminal window for the backend directory, run the following command:
-sql
-npm start
-This will start the backend server on the specified port.
-
-Start the frontend development server. In the terminal window for the frontend directory, run the following command:
-sql
-npm start
-This will start the frontend development server and open the application in your default browser.
 
 Contributing
 Contributions to the Contact Book project are welcome! If you find any bugs or want to add new features, please submit an issue or a pull request to the repository.
